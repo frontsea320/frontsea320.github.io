@@ -814,6 +814,7 @@ header {
 }
 #blog .tabgroup ul li .text-content {
   display: inline;
+  text-align: left; /* 确保文本内容左对齐 */
 }
 
 #blog .item .text-content h4 {
